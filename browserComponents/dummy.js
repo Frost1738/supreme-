@@ -1,0 +1,81 @@
+export const staticProducts = [
+  {
+    id: "1",
+    product_name: "Velvet Armchair",
+    price: 429,
+    category: "Armchairs",
+    rating: 4.5,
+    review_number: 128,
+    dimensions: "90x85x100 cm",
+    materials: "Velvet + Gold-plated legs",
+    description:
+      "Luxurious velvet armchair with gold legs. Perfect for reading nooks.",
+    image_url:
+      "https://images.unsplash.com/photo-1691036561875-e764784a0c9a?w=600&auto=format&fit=crop",
+  },
+  {
+    id: "2",
+    product_name: "L-Shaped Sofa",
+    price: 899,
+    category: "sofas & couches",
+    rating: 4.8,
+    review_number: 256,
+    dimensions: "260x180x85 cm",
+    materials: "Velvet + Solid wood frame",
+    description: "Elegant L-shaped sofa with premium velvet upholstery.",
+    image_url:
+      "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?q=80&w=2070&auto=format&fit=crop",
+  },
+  {
+    id: "3",
+    product_name: "Marble Coffee Table",
+    price: 349,
+    category: "Tables",
+    rating: 4.3,
+    review_number: 89,
+    dimensions: "120x60x45 cm",
+    materials: "Marble + Steel",
+    description: "Modern coffee table with polished marble top.",
+    image_url:
+      "https://images.unsplash.com/photo-1604578762246-41134e37f9cc?w=600&auto=format&fit=crop",
+  },
+  {
+    id: "4",
+    product_name: "Bookshelf Unit",
+    price: 599,
+    category: "Storage",
+    rating: 4.7,
+    review_number: 67,
+    dimensions: "180x30x200 cm",
+    materials: "Solid Walnut",
+    description: "Six-shelf bookcase made of solid walnut wood.",
+    image_url:
+      "https://images.unsplash.com/photo-1615874694520-474822394e73?w=600&auto=format&fit=crop",
+  },
+  {
+    id: "5",
+    product_name: "Round Dining Table",
+    price: 649,
+    category: "Dining",
+    rating: 4.6,
+    review_number: 142,
+    dimensions: "120cm diam x 75cm",
+    materials: "Solid Oak",
+    description: "Extendable round dining table seats 6-8.",
+    image_url:
+      "https://images.unsplash.com/photo-1577140917170-285929fb55b7?q=80&w=2070&auto=format&fit=crop",
+  },
+  {
+    id: "6",
+    product_name: "King Bed Frame",
+    price: 1199,
+    category: "Bedroom",
+    rating: 4.9,
+    review_number: 203,
+    dimensions: "193x203x100 cm",
+    materials: "Italian Leather",
+    description: "Tufted leather headboard with solid wood slats.",
+    image_url:
+      "https://images.unsplash.com/photo-1505693314120-0d443867891c?q=80&w=2070&auto=format&fit=crop",
+  },
+];
